@@ -1,6 +1,6 @@
 
 <div align="center">
-
+  
 # Chittiboina Siva Narasimhulu
 
 ### Aspiring DevOps & Cloud Engineer
@@ -9,13 +9,11 @@ Linux • AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible
 
 *Learning by building. Improving through automation.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanarasimhulu621)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sivanarasimhulu21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanarasimhulu621)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Projects-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sivanarasimhulu21)
 
 </div>
-
 ---
-
 ## 👋 About Me
 
 Hi, I'm Siva Narasimhulu, a Computer Science graduate interested in DevOps, Cloud Computing, and Platform Engineering.
@@ -27,9 +25,7 @@ Hi, I'm Siva Narasimhulu, a Computer Science graduate interested in DevOps, Clou
 - 🚀 Building hands-on projects in application deployment, containerization, and automation.
 - 📚 Continuously learning through practical projects and hands-on practice.
 - 🤝 Open to entry-level opportunities in DevOps, Cloud Engineering, Linux Administration, and SRE.
-
 ---
-
 <div align="center">
 
 *Let's connect and build something useful!*

@@ -20,23 +20,15 @@ Linux • AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible
 Hi, I'm Siva Narasimhulu, a Computer Science graduate interested in DevOps, Cloud Computing, and Platform Engineering.
 
 * 🎓 B.Tech in Computer Science, 2026.
-* ☁️ Learning and working with AWS and cloud infrastructure.
+* ☁️ Aspiring DevOps & Cloud Engineer
 * 🐧 Practicing Linux administration, Docker, Kubernetes, and CI/CD.
 * ⚙️ Exploring infrastructure automation using Terraform and Ansible.
 * 🚀 Building hands-on projects in application deployment, containerization, and automation.
 * 📚 Continuously developing my technical skills through practical projects and learning.
+* 🤝 Open to entry-level DevOps, Cloud, Linux Administration, and SRE opportunities.
+
+Let's connect and build something useful!
 
 
-## Career Interests
-
-Open to **Junior DevOps Engineer, Cloud Engineer, Platform Engineer, and Linux Administrator** opportunities.
-
----
-
-<div align="center">
-
-*Building practical skills, one project at a time.*
-
-</div>
 
 

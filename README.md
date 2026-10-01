@@ -9,10 +9,13 @@ Linux • AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible
 
 *Learning by building. Improving through automation.*
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanarasimhulu621)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Projects-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sivanarasimhulu21)
 
 </div>
+
 ---
 ## 👋 About Me
 
@@ -26,6 +29,7 @@ Hi, I'm Siva Narasimhulu, a Computer Science graduate interested in DevOps, Clou
 - 📚 Continuously learning through practical projects and hands-on practice.
 - 🤝 Open to entry-level opportunities in DevOps, Cloud Engineering, Linux Administration, and SRE.
 ---
+
 <div align="center">
 
 *Let's connect and build something useful!*

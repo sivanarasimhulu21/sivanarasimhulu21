@@ -9,8 +9,8 @@ Linux • AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible
 
 *Learning by building. Improving through automation.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanarasimhulu621)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Projects-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sivanarasimhulu21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivanarasimhulu621)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Projects-2E8B57?style=flat-square&logo=github&logoColor=white)](https://github.com/Sivanarasimhulu21)
 
 </div>
 

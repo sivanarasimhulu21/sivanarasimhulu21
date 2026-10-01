@@ -1,24 +1,69 @@
 <div align="center">
 
-# YOUR NAME
+# Chittiboina Siva Narasimhulu
 
-### Platform Engineer • AI Infrastructure • Agentic Systems
+**Aspiring DevOps & Cloud Engineer**
 
-`DevOps` • `Platform Engineering` • `MLOps` • `GenAI`
+Linux • AWS • Docker • Kubernetes • Jenkins • Terraform • Ansible
 
-*Building Cloud Platforms & AI Systems.*
+*Learning by building. Improving through automation.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/sivanarasimhulu621)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Sivanarasimhulu21)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Write a few lines about what you build and what interests you.
+Hi, I'm Siva Narasimhulu, a Computer Science graduate interested in DevOps, Cloud Computing, and Platform Engineering.
 
-## 📊 GitHub Statistics
+* 🎓 B.Tech in Computer Science, 2026.
+* ☁️ Learning and working with AWS and cloud infrastructure.
+* 🐧 Practicing Linux administration, Docker, Kubernetes, and CI/CD.
+* ⚙️ Exploring infrastructure automation using Terraform and Ansible.
+* 🚀 Building hands-on projects in application deployment, containerization, and automation.
+* 📚 Continuously developing my technical skills through practical projects and learning.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+## Technical Skills
+
+* **Cloud:** AWS
+* **Operating Systems:** Linux, Ubuntu
+* **Containers:** Docker, Kubernetes
+* **CI/CD:** Jenkins, GitHub Actions
+* **Infrastructure as Code:** Terraform, Ansible
+* **Version Control:** Git, GitHub
+* **Build Tools:** Maven
+* **Monitoring:** Prometheus, Grafana
+* **Programming & Databases:** Java, SQL, MySQL, Shell Scripting
+
+## Projects
+
+Explore my repositories for hands-on projects involving:
+
+* Dockerizing and deploying a Student Management System.
+* Automating application builds and deployments using Jenkins and Docker.
+* Provisioning AWS infrastructure using Terraform.
+* Configuring servers and applications using Ansible.
+
+## Currently Learning
+
+* Cloud infrastructure and deployment automation.
+* Kubernetes and container orchestration.
+* CI/CD pipeline development.
+* Monitoring, troubleshooting, and site reliability engineering fundamentals.
+
+## Career Interests
+
+Open to **Junior DevOps Engineer, Cloud Engineer, Platform Engineer, and Linux Administrator** opportunities.
+
+---
+
+<div align="center">
+
+*Building practical skills, one project at a time.*
+
+</div>
+
+
